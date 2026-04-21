@@ -1,0 +1,10 @@
+<svg width="210" height="50" viewBox="0 0 210 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bold { font: bold 32px sans-serif; letter-spacing: -1px; }
+    .dark { fill: #222222; }
+    .cyan { fill: #49D2D2; }
+  </style>
+  <text x="0" y="35" class="bold">
+    <tspan class="dark">Wander</tspan><tspan class="cyan">Vista</tspan>
+  </text>
+</svg>
